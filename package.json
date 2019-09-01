@@ -1,0 +1,19 @@
+{
+  "name": "readfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varannchik/readFile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varannchik/readFile/issues"
+  },
+  "homepage": "https://github.com/Varannchik/readFile#readme"
+}
